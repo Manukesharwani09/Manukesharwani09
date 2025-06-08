@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manu Kesharwani
 
-### A passionate full-stack developer and B.Tech student from India
+
 
 B.Tech student with strong skills in Data Structures and Algorithms using C++. Proficient in SQL, DBMS, and core programming languages. Experienced in full-stack web development and familiar with basic Python. Actively participated in LeetCode contests to enhance problem-solving abilities.
 
